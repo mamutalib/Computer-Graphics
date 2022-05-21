@@ -1,3 +1,3 @@
 # Computer Graphics
 
-[Download](./Computer%20Graphics.pdf)
+[Download](Computer%20Graphics.pdf)
